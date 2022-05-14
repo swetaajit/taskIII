@@ -6,3 +6,4 @@ Connect the digital I/O pin 9 from Arduino UNO with the anode of the LED. Then, 
 ![alttext](./PWM/PWM%20OSCILLOSCPOE.png)
 ![alttext](./PWM/PWMCIRCUIT.png)
 ![alttext](./PWM/PWMCOMPONENTS.png)
+[TinkerCAD](https://www.tinkercad.com/things/a1JJUbM4200-pwm-oscilloscpoe/editel?sharecode=uUTPKZTXlkErsQy4OlAoVR3hEvzSOYvvbV3TpksS7XE)
